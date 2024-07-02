@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "What is AI?",
+      "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines."
+    },
+    {
+      "question": "hello!",
+      "answer": "hey there, how are you."
+    },
+    {
+      "question": "i am fine. what about you?",
+      "answer": "I don't have emotions, I am a bot."
+    },
+    {
+      "question": "can you talk to me for hours",
+      "answer": "yeah sure, you can do as much conversation as you want"
+    }
+  ]
+}
